@@ -1,0 +1,8 @@
+#Temp files
+*.un~
+
+#Object files
+*.o
+
+#Compiled programs
+*.out
